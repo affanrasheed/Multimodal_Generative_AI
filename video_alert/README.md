@@ -19,7 +19,7 @@ cd Multimodal_Generative_AI/vision_text_extraction
 2. Install dependencies
 ```
 conda create -n vis_alert python=3.9
-conda activate vis_elert
+conda activate vis_alert
 pip3 install -r requirements.txt
 ```
 
